@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\hujiaxuan\Desktop\Wonderful2-master\build\intermediates\pre-dexed\debug\com.umeng.message.lib-1670e5befc7e2bbcccf2080ce78d634c4c4d2403.jar"
+        jar="C:\Users\hujiaxuan\Desktop\Wonderful2-master\libs\com.umeng.message.lib.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9140057eaca588de79a9c3d4ac47e188a3c0dc03"/>
+    <item
+        dex="C:\Users\hujiaxuan\Desktop\Wonderful2-master\build\intermediates\pre-dexed\debug\android-support-v4-18ca19fd0dd74613d9782b43a6bd5350edd525fe.jar"
+        jar="C:\Users\hujiaxuan\Desktop\Wonderful2-master\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4"/>
+    <item
+        dex="C:\Users\hujiaxuan\Desktop\Wonderful2-master\build\intermediates\pre-dexed\debug\bmob_v3.1.2beta-a8f3bf2da83eac830992e582f6627b82933dec0c.jar"
+        jar="C:\Users\hujiaxuan\Desktop\Wonderful2-master\libs\bmob_v3.1.2beta.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="45f4fb0327bbd01044da56dcf8cfb7826ea6e219"/>
+    <item
+        dex="C:\Users\hujiaxuan\Desktop\Wonderful2-master\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.1-0640370770e5ca5456e821c30550018c0707e41d.jar"
+        jar="C:\Users\hujiaxuan\Desktop\Wonderful2-master\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f"/>
+    <item
+        dex="C:\Users\hujiaxuan\Desktop\Wonderful2-master\build\intermediates\pre-dexed\debug\umeng-fb-v4.3.2-147be660b518b7c597adbfcc7bd0f05d79f05329.jar"
+        jar="C:\Users\hujiaxuan\Desktop\Wonderful2-master\libs\umeng-fb-v4.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="cdaa710c971bbcc51de6568c003448c0ebe5b7ad"/>
+    <item
+        dex="C:\Users\hujiaxuan\Desktop\Wonderful2-master\build\intermediates\pre-dexed\debug\open_sdk-3c1be2156ebf5bb36dcfb05008ec9652874f1fbd.jar"
+        jar="C:\Users\hujiaxuan\Desktop\Wonderful2-master\libs\open_sdk.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="af16b82c753e70cfea1761c8d43581287887e734"/>
+    <item
+        dex="C:\Users\hujiaxuan\Desktop\Wonderful2-master\build\intermediates\pre-dexed\debug\YoumiSdk_v4.09_2014-06-16-b851ef7d121ca267bcfa7ebdbdf286fb78168ece.jar"
+        jar="C:\Users\hujiaxuan\Desktop\Wonderful2-master\libs\YoumiSdk_v4.09_2014-06-16.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="160f21765370085650cbc089377fecb052903d17"/>
+    <item
+        dex="C:\Users\hujiaxuan\Desktop\Wonderful2-master\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.3-158118a26669c3b90e1067468cc7800ef3ec4b97.jar"
+        jar="C:\Users\hujiaxuan\Desktop\Wonderful2-master\libs\umeng-analytics-v5.2.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dfe1fbfc1f76afed3ef2a847f471ef2d0adb34a2"/>
+    <item
+        dex="C:\Users\hujiaxuan\Desktop\Wonderful2-master\build\intermediates\pre-dexed\debug\mta-sdk-1.0.0-3ec8ff7cbfc92aa6de31168fe04b3bab52e03a07.jar"
+        jar="C:\Users\hujiaxuan\Desktop\Wonderful2-master\libs\mta-sdk-1.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d"/>
+    <item
+        dex="C:\Users\hujiaxuan\Desktop\Wonderful2-master\build\intermediates\pre-dexed\debug\umeng-update-v2.4.2-8c3fff4434b9829be3fa18567381a0c159931e8b.jar"
+        jar="C:\Users\hujiaxuan\Desktop\Wonderful2-master\libs\umeng-update-v2.4.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e3b07785e04ffc3ce231da4731594424a07ed936"/>
+
+</pre-dex-items>

@@ -1,0 +1,2255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res" >
+            <file
+                name="activity_close_enter"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\anim\activity_close_enter.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="activity_close_exit"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\anim\activity_close_exit.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="activity_open_enter"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\anim\activity_open_enter.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="activity_open_exit"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\anim\activity_open_exit.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="loading"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\anim\loading.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="progress_loading"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\anim\progress_loading.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_in_from_bottom"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\anim\slide_in_from_bottom.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_in_from_top"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\anim\slide_in_from_top.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_out_to_bottom"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\anim\slide_out_to_bottom.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_out_to_top"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\anim\slide_out_to_top.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="umeng_fb_slide_in_from_left"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\anim\umeng_fb_slide_in_from_left.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="umeng_fb_slide_in_from_right"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\anim\umeng_fb_slide_in_from_right.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="umeng_fb_slide_out_from_left"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\anim\umeng_fb_slide_out_from_left.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="umeng_fb_slide_out_from_right"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\anim\umeng_fb_slide_out_from_right.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="actionbar_background"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\actionbar_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="actionbar_btn"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\actionbar_btn.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="actionbar_btn_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\actionbar_btn_normal.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="actionbar_btn_pressed"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\actionbar_btn_pressed.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="activated_background_holo_light"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\activated_background_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="edittext_focus"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\edittext_focus.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="edittext_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\edittext_normal.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="female_btn_selector"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\female_btn_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="indicator_bg_bottom"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\indicator_bg_bottom.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="indicator_bg_top"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\indicator_bg_top.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="male_btn_selector"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\male_btn_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="qq_background"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\qq_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selector_edittext"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\selector_edittext.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selector_edittext_account"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\selector_edittext_account.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selector_edit_pic"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\selector_edit_pic.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selector_load_more"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\selector_load_more.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selector_logout"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\selector_logout.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selector_navi_item"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\selector_navi_item.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selector_push_switch"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\selector_push_switch.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selector_settings_item_down"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\selector_settings_item_down.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selector_sex_choice"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\selector_sex_choice.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="spinner"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\spinner.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_common_gradient_green"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_common_gradient_green.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_common_gradient_orange"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_common_gradient_orange.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_common_gradient_red"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_common_gradient_red.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_arrow_right"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_arrow_right.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_back_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_back_normal.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_back_selected"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_back_selected.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_back_selector"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_back_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_bar_bg"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_bar_bg.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_btn_bg_selector"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_btn_bg_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_conversation_bg"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_conversation_bg.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_gradient_green"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_gradient_green.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_gradient_orange"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_gradient_orange.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_gray_frame"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_gray_frame.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_list_item"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_list_item.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_list_item_pressed"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_list_item_pressed.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_list_item_selector"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_list_item_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_logo"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_logo.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_point_new"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_point_new.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_point_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_point_normal.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_reply_left_bg"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_reply_left_bg.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_reply_right_bg"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_reply_right_bg.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_see_list_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_see_list_normal.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_see_list_pressed"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_see_list_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_see_list_selector"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_see_list_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_statusbar_icon"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_statusbar_icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_submit_selector"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_submit_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_tick_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_tick_normal.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_tick_selected"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_tick_selected.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_tick_selector"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_tick_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_top_banner"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_top_banner.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_user_bubble"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_user_bubble.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_write_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_write_normal.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_write_pressed"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_write_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_fb_write_selector"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_fb_write_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_update_button_cancel_bg_focused"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_update_button_cancel_bg_focused.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_update_button_cancel_bg_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_update_button_cancel_bg_normal.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_update_button_cancel_bg_selector"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_update_button_cancel_bg_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_update_button_cancel_bg_tap"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_update_button_cancel_bg_tap.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_update_button_check_selector"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_update_button_check_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_update_button_close_bg_selector"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_update_button_close_bg_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_update_button_ok_bg_focused"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_update_button_ok_bg_focused.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_update_button_ok_bg_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_update_button_ok_bg_normal.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_update_button_ok_bg_selector"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_update_button_ok_bg_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_update_button_ok_bg_tap"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_update_button_ok_bg_tap.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_update_dialog_bg"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_update_dialog_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_update_title_bg"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_update_title_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="umeng_update_wifi_disable"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable\umeng_update_wifi_disable.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="actionbar_back_indicator"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\actionbar_back_indicator.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="action_hate"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\action_hate.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="action_rate"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\action_rate.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_edit_pic_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\bg_edit_pic_normal.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_edit_pic_pressed"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\bg_edit_pic_pressed.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_navi"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\bg_navi.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="biz_news_column_drag_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\biz_news_column_drag_normal.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="contacts"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\contacts.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="content_image_default"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\content_image_default.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="default_ptr_flip"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\default_ptr_flip.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="default_ptr_rotate"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\default_ptr_rotate.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\drawer_shadow.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_back_blue"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\icon_back_blue.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_channel_item"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\icon_channel_item.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_female_checked"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\icon_female_checked.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_female_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\icon_female_normal.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_male_checked"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\icon_male_checked.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_male_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\icon_male_normal.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="indicator_arrow"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\indicator_arrow.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="list_activated_holo"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\list_activated_holo.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="my"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\my.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="open_picture"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\open_picture.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_four"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\progress_four.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_one"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\progress_one.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_three"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\progress_three.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="progress_two"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\progress_two.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="search"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\search.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_01"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_01.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_02"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_02.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_03"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_03.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_04"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_04.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_05"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_05.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_06"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_06.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_07"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_07.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_08"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_08.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_09"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_09.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_10"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_10.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_11"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_11.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_12"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_12.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_13"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_13.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_14"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_14.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_15"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_15.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_16"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_16.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_17"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_17.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_18"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_18.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_19"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_19.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_20"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_20.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_21"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_21.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_22"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_22.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_23"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_23.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_24"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_24.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_25"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_25.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_26"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_26.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_27"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_27.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_28"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_28.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_29"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_29.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_30"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_30.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_31"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_31.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_32"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_32.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_33"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_33.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_34"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_34.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_35"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_35.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_36"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_36.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_37"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_37.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_38"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_38.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_39"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_39.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_40"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\spinner_40.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="take_picture"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\take_picture.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="umeng_update_btn_check_off_focused_holo_light"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\umeng_update_btn_check_off_focused_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="umeng_update_btn_check_off_holo_light"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\umeng_update_btn_check_off_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="umeng_update_btn_check_off_pressed_holo_light"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\umeng_update_btn_check_off_pressed_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="umeng_update_btn_check_on_focused_holo_light"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\umeng_update_btn_check_on_focused_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="umeng_update_btn_check_on_holo_light"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\umeng_update_btn_check_on_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="umeng_update_btn_check_on_pressed_holo_light"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\umeng_update_btn_check_on_pressed_holo_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="umeng_update_close_bg_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\umeng_update_close_bg_normal.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="umeng_update_close_bg_tap"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\umeng_update_close_bg_tap.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="umeng_xp_loading"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\umeng_xp_loading.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="user_account"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\user_account.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="user_delete"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\user_delete.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="user_name"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\user_name.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="user_password"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\user_password.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="wechat"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-hdpi\wechat.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="default_ptr_flip"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-mdpi\default_ptr_flip.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="default_ptr_rotate"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-mdpi\default_ptr_rotate.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="indicator_arrow"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-mdpi\indicator_arrow.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="back_indicator"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\back_indicator.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_account"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_account.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_account_focus"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_account_focus.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_account_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_account_normal.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_comment_comment"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_comment_comment.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_comment_floor"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_comment_floor.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_edit_pic_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_edit_pic_normal.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_edit_pic_pressed"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_edit_pic_pressed.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_get_pic"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_get_pic.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_get_pic_big"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_get_pic_big.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_go_settings"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_go_settings.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_login_tab"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_login_tab.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_logout_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_logout_normal.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_logout_pressed"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_logout_pressed.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_navi_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_navi_normal.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_navi_pressed"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_navi_pressed.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_pic_edit"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_pic_edit.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_pic_loading"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_pic_loading.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_settings_item_down_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_settings_item_down_normal.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_settings_item_down_pressed"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_settings_item_down_pressed.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_take_pic_big"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\bg_take_pic_big.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_comment_publish"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\btn_comment_publish.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="default_ptr_flip"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\default_ptr_flip.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="default_ptr_rotate"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\default_ptr_rotate.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_comment"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_action_comment.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_edit"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_action_edit.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_fav"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_action_fav.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_fav_choose"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_action_fav_choose.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_fav_normal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_action_fav_normal.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_love"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_action_love.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_share"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_action_share.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_drawer.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_navi_about"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_navi_about.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_navi_feedback"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_navi_feedback.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_navi_home"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_navi_home.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_navi_intro"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_navi_intro.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_navi_settings"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_navi_settings.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_push_off"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_push_off.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_push_on"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_push_on.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_sex_female"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_sex_female.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_sex_male"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\ic_sex_male.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="indicator_arrow"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\indicator_arrow.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\logo.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="topbar_menu_left"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\topbar_menu_left.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="user_icon_default"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\user_icon_default.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="user_icon_default_main"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\drawable-xhdpi\user_icon_default_main.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="actionbar"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\actionbar.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="actionbar_item"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\actionbar_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_base_home"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\activity_base_home.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_comment"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\activity_comment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_edit"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\activity_edit.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_fav"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\activity_fav.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_home"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\activity_home.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_register"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\activity_register.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_splash"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\activity_splash.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ai_item"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\ai_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="center_frame"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\center_frame.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="change_sign"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\change_sign.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="comment_item"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\comment_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_usericon"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\dialog_usericon.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_item"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\drawer_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_main"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\fragment_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_navi"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\fragment_navi.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_personal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\fragment_personal.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_personal_edit"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\fragment_personal_edit.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_qiangcontent"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\fragment_qiangcontent.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_settings"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\fragment_settings.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="frame_navi"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\frame_navi.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_header_navigation"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\list_header_navigation.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="navi_item"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\navi_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="pull_to_refresh_header_horizontal"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\pull_to_refresh_header_horizontal.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="pull_to_refresh_header_vertical"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\pull_to_refresh_header_vertical.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="slidingmenumain"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\slidingmenumain.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="umeng_common_download_notification"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\umeng_common_download_notification.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="umeng_fb_activity_contact"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\umeng_fb_activity_contact.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="umeng_fb_activity_conversation"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\umeng_fb_activity_conversation.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="umeng_fb_list_header"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\umeng_fb_list_header.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="umeng_fb_list_item"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\umeng_fb_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="umeng_fb_new_reply_alert_dialog"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\umeng_fb_new_reply_alert_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="umeng_update_dialog"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout\umeng_update_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="umeng_common_download_notification"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\layout-v9\umeng_common_download_notification.xml"
+                qualifiers="v9"
+                type="layout" />
+            <file
+                name="splash"
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\menu\splash.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="SmoothProgressBar" >
+                    <attr
+                        name="spbStyle"
+                        format="reference" />
+                    <attr
+                        name="spb_color"
+                        format="color" />
+                    <attr
+                        name="spb_stroke_width"
+                        format="dimension" />
+                    <attr
+                        name="spb_stroke_separator_length"
+                        format="dimension" />
+                    <attr
+                        name="spb_sections_count"
+                        format="integer" />
+                    <attr
+                        name="spb_speed"
+                        format="float" />
+                    <attr
+                        name="spb_interpolator"
+                        format="enum" >
+                        <enum
+                            name="spb_interpolator_accelerate"
+                            value="0" />
+                        <enum
+                            name="spb_interpolator_linear"
+                            value="1" />
+                        <enum
+                            name="spb_interpolator_acceleratedecelerate"
+                            value="2" />
+                        <enum
+                            name="spb_interpolator_decelerate"
+                            value="3" />
+                    </attr>
+                    <attr
+                        name="spb_reversed"
+                        format="boolean" />
+                    <attr
+                        name="spb_mirror_mode"
+                        format="boolean" />
+                    <attr
+                        name="spb_colors"
+                        format="reference" />
+                </declare-styleable>
+                <declare-styleable name="ActionBar" >
+                    <attr
+                        name="title"
+                        format="string"
+                        localization="suggested" />
+                </declare-styleable>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\attrs_pull2refresh.xml"
+                qualifiers="" >
+                <declare-styleable name="PullToRefresh" >
+
+                    <!-- A drawable to use as the background of the Refreshable View -->
+                    <attr
+                        name="ptrRefreshableViewBackground"
+                        format="reference|color" />
+
+                    <!-- A drawable to use as the background of the Header and Footer Loading Views -->
+                    <attr
+                        name="ptrHeaderBackground"
+                        format="reference|color" />
+
+                    <!-- Text Color of the Header and Footer Loading Views -->
+                    <attr
+                        name="ptrHeaderTextColor"
+                        format="reference|color" />
+
+                    <!-- Text Color of the Header and Footer Loading Views Sub Header -->
+                    <attr
+                        name="ptrHeaderSubTextColor"
+                        format="reference|color" />
+
+                    <!-- Mode of Pull-to-Refresh that should be used -->
+                    <attr name="ptrMode" >
+                        <flag
+                            name="disabled"
+                            value="0x0" />
+                        <flag
+                            name="pullFromStart"
+                            value="0x1" />
+                        <flag
+                            name="pullFromEnd"
+                            value="0x2" />
+                        <flag
+                            name="both"
+                            value="0x3" />
+                        <flag
+                            name="manualOnly"
+                            value="0x4" />
+
+                        <!-- These last two are depreacted -->
+                        <flag
+                            name="pullDownFromTop"
+                            value="0x1" />
+                        <flag
+                            name="pullUpFromBottom"
+                            value="0x2" />
+                    </attr>
+
+                    <!-- Whether the Indicator overlay(s) should be used -->
+                    <attr
+                        name="ptrShowIndicator"
+                        format="reference|boolean" />
+
+                    <!-- Drawable to use as Loading Indicator. Changes both Header and Footer. -->
+                    <attr
+                        name="ptrDrawable"
+                        format="reference" />
+
+                    <!-- Drawable to use as Loading Indicator in the Header View. Overrides value set in ptrDrawable. -->
+                    <attr
+                        name="ptrDrawableStart"
+                        format="reference" />
+
+                    <!-- Drawable to use as Loading Indicator in the Footer View. Overrides value set in ptrDrawable. -->
+                    <attr
+                        name="ptrDrawableEnd"
+                        format="reference" />
+
+                    <!-- Whether Android's built-in Over Scroll should be utilised for Pull-to-Refresh. -->
+                    <attr
+                        name="ptrOverScroll"
+                        format="reference|boolean" />
+
+                    <!-- Base text color, typeface, size, and style for Header and Footer Loading Views -->
+                    <attr
+                        name="ptrHeaderTextAppearance"
+                        format="reference" />
+
+                    <!-- Base text color, typeface, size, and style for Header and Footer Loading Views Sub Header -->
+                    <attr
+                        name="ptrSubHeaderTextAppearance"
+                        format="reference" />
+
+                    <!-- Style of Animation should be used displayed when pulling. -->
+                    <attr name="ptrAnimationStyle" >
+                        <flag
+                            name="rotate"
+                            value="0x0" />
+                        <flag
+                            name="flip"
+                            value="0x1" />
+                    </attr>
+
+                    <!-- Whether the user can scroll while the View is Refreshing -->
+                    <attr
+                        name="ptrScrollingWhileRefreshingEnabled"
+                        format="reference|boolean" />
+
+                    <!--
+        	Whether PullToRefreshListView has it's extras enabled. This allows the user to be 
+        	able to scroll while refreshing, and behaves better. It acheives this by adding
+        	Header and/or Footer Views to the ListView.
+                    -->
+                    <attr
+                        name="ptrListViewExtrasEnabled"
+                        format="reference|boolean" />
+
+                    <!--
+        	Whether the Drawable should be continually rotated as you pull. This only
+        	takes effect when using the 'Rotate' Animation Style.
+                    -->
+                    <attr
+                        name="ptrRotateDrawableWhilePulling"
+                        format="reference|boolean" />
+
+                    <!-- BELOW HERE ARE DEPRECEATED. DO NOT USE. -->
+                    <attr
+                        name="ptrAdapterViewBackground"
+                        format="reference|color" />
+                    <attr
+                        name="ptrDrawableTop"
+                        format="reference" />
+                    <attr
+                        name="ptrDrawableBottom"
+                        format="reference" />
+                </declare-styleable>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\attrs_sliding.xml"
+                qualifiers="" >
+                <declare-styleable name="SlidingMenu" >
+                    <attr name="mode" >
+                        <enum
+                            name="left"
+                            value="0" />
+                        <enum
+                            name="right"
+                            value="1" />
+                    </attr>
+                    <attr
+                        name="viewAbove"
+                        format="reference" />
+                    <attr
+                        name="viewBehind"
+                        format="reference" />
+                    <attr
+                        name="behindOffset"
+                        format="dimension" />
+                    <attr
+                        name="behindWidth"
+                        format="dimension" />
+                    <attr
+                        name="behindScrollScale"
+                        format="float" />
+                    <attr name="touchModeAbove" >
+                        <enum
+                            name="margin"
+                            value="0" />
+                        <enum
+                            name="fullscreen"
+                            value="1" />
+                        <enum
+                            name="none"
+                            value="2" />
+                    </attr>
+                    <attr name="touchModeBehind" >
+                        <enum
+                            name="margin"
+                            value="0" />
+                        <enum
+                            name="fullscreen"
+                            value="1" />
+                        <enum
+                            name="none"
+                            value="2" />
+                    </attr>
+                    <attr
+                        name="shadowDrawable"
+                        format="reference" />
+                    <attr
+                        name="shadowWidth"
+                        format="dimension" />
+                    <attr
+                        name="fadeEnabled"
+                        format="boolean" />
+                    <attr
+                        name="fadeDegree"
+                        format="float" />
+                    <attr
+                        name="selectorEnabled"
+                        format="boolean" />
+                    <attr
+                        name="selectorDrawable"
+                        format="reference" />
+                </declare-styleable>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\colors.xml"
+                qualifiers="" >
+                <color name="gplus_color_3" >#b23424
+                </color>
+                <color name="theme_color" >#D95555
+                </color>
+                <color name="gplus_color_2" >#427fed
+                </color>
+
+                <integer-array name="gplus_colors" >
+                    <item>
+@color/gplus_color_1
+                    </item>
+                    <item>
+@color/gplus_color_2
+                    </item>
+                    <item>
+@color/gplus_color_3
+                    </item>
+                    <item>
+@color/gplus_color_4
+                    </item>
+                </integer-array>
+
+                <drawable name="bg_ic_navi_normal" >
+#FFFFFF
+                </drawable>
+
+                <color name="gplus_color_4" >#f4b400
+                </color>
+                <color name="gplus_color_1" >#3e802f
+                </color>
+
+                <drawable name="bg_ic_navi_pressed" >
+#EEEEEE
+                </drawable>
+
+                <color name="second_color" >#888888
+                </color>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\colors_actionbar.xml"
+                qualifiers="" >
+                <color name="actionbar_separator" >#00000000
+                </color>
+                <color name="actionbar_background_item_pressed_start" >#D95555
+                </color>
+                <color name="actionbar_background_item_pressed_end" >#D95555
+                </color>
+                <color name="actionbar_title" >#FFFFFF
+                </color>
+                <color name="qq_common_bg" >#ffdddddd
+                </color>
+                <color name="actionbar_background_end" >#D95555
+                </color>
+                <color name="actionbar_background_start" >#D95555
+                </color>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\defaults.xml"
+                qualifiers="" >
+                <bool name="spb_default_reversed" >
+false
+                </bool>
+
+                <integer name="spb_default_sections_count" >
+4
+                </integer>
+                <integer name="spb_default_interpolator" >
+0
+                </integer>
+
+                <dimen name="spb_default_stroke_separator_length" >4dp
+                </dimen>
+
+                <bool name="spb_default_mirror_mode" >
+false
+                </bool>
+
+                <dimen name="spb_default_stroke_width" >4dp
+                </dimen>
+
+                <item
+                    name="spb_default_speed"
+                    format="float"
+                    type="string">
+1.0
+                </item>
+
+                <color name="spb_default_color" >#33b5e5
+                </color>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="vendor_image_size" >100dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="text_size_xlarge" >18sp
+                </dimen>
+                <dimen name="actionbar_item_width" >48dip
+                </dimen>
+                <dimen name="activity_zero_margin" >0dp
+                </dimen>
+                <dimen name="body_padding_large" >10dp
+                </dimen>
+                <dimen name="speaker_image_padding" >8dp
+                </dimen>
+                <dimen name="text_size_small" >14sp
+                </dimen>
+                <dimen name="text_size_large" >18sp
+                </dimen>
+                <dimen name="speaker_image_size" >36dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="slidingmenu_offset" >150dip
+                </dimen>
+                <dimen name="text_size_medium" >18sp
+                </dimen>
+                <dimen name="actionbar_height" >48dip
+                </dimen>
+                <dimen name="body_padding_medium" >10dp
+                </dimen>
+                <dimen name="actionbar_item_height" >48dip
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\dimens_pull2refresh.xml"
+                qualifiers="" >
+                <dimen name="indicator_corner_radius" >12dp
+                </dimen>
+                <dimen name="indicator_right_padding" >10dp
+                </dimen>
+                <dimen name="indicator_internal_padding" >4dp
+                </dimen>
+                <dimen name="header_footer_top_bottom_padding" >12dp
+                </dimen>
+                <dimen name="header_footer_left_right_padding" >24dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\ids_pull2refresh.xml"
+                qualifiers="" >
+                <item
+                    name="scrollview"
+                    type="id"/>
+                <item
+                    name="webview"
+                    type="id"/>
+                <item
+                    name="gridview"
+                    type="id"/>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\ids_sliding.xml"
+                qualifiers="" >
+                <item
+                    name="selected_view"
+                    type="id"/>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\pull_refresh_strings.xml"
+                qualifiers="" >
+                <string name="pull_to_refresh_from_bottom_pull_label" >@string/pull_to_refresh_pull_label
+                </string>
+                <string name="pull_to_refresh_from_bottom_release_label" >@string/pull_to_refresh_release_label
+                </string>
+                <string name="pull_to_refresh_from_bottom_refreshing_label" >@string/pull_to_refresh_refreshing_label
+                </string>
+                <string name="pull_to_refresh_refreshing_label" >Loading…
+                </string>
+                <string name="pull_to_refresh_pull_label" >Pull to refresh…
+                </string>
+                <string name="pull_to_refresh_release_label" >Release to refresh…
+                </string>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\strings.xml"
+                qualifiers="" >
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="dialog_tips" >大家好，\n\t\t\t\t\t该应用源码中不提供应用key,如果你需要查看该源码效果，请自行到官网申请key。\n\t\t\t\t\t申请成功之后在应用程序启动页(SplashActivity)的onCreate方法中完成初始化操作!
+                </string>
+
+                <string-array name="interpolators" >
+                    <item>
+Accelerate
+                    </item>
+                    <item>
+Linear
+                    </item>
+                    <item>
+AccelerateDecelerate
+                    </item>
+                    <item>
+Decelerate
+                    </item>
+                </string-array>
+
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >Wonderful
+                </string>
+                <string name="about_title" >关于
+                </string>
+                <string name="settings_title" >应用设置
+                </string>
+                <string name="application_title" >Wonderful
+                </string>
+
+                <string-array name="navigations" >
+                    <item>
+设置
+                    </item>
+                    <item>
+反馈
+                    </item>
+                    <item>
+推荐
+                    </item>
+                    <item>
+关于
+                    </item>
+                </string-array>
+
+                <string name="actionbar_activity_not_found" >Failed to open intent…
+                </string>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="MyProgressBar"
+                    parent="@android:style/Widget.ProgressBar.Large" >
+                    <item name="android:indeterminateDrawable">
+@anim/progress_loading
+                    </item>
+                    <item name="android:indeterminateOnly">
+true
+                    </item>
+                    <item name="android:indeterminateDuration">
+1000
+                    </item>
+                    <item name="android:indeterminate">
+true
+                    </item>
+                </style>
+
+                <style name="TextTheme" >
+                    <item name="android:layout_width">
+wrap_content
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:gravity">
+left
+                    </item>
+                    <item name="android:layout_weight">
+1
+                    </item>
+                    <item name="android:shadowColor">
+#00000000
+                    </item>
+                    <item name="android:shadowDx">
+0
+                    </item>
+                    <item name="android:shadowDy">
+0
+                    </item>
+                    <item name="android:shadowRadius">
+0
+                    </item>
+                    <item name="android:background">
+@null
+                    </item>
+                    <item name="android:textSize">
+16sp
+                    </item>
+                    <item name="android:textColor">
+#242424
+                    </item>
+                    <item name="android:textStyle">
+normal
+                    </item>
+                </style>
+
+                <style name="ActionBarItem" >
+                    <item name="android:layout_width">
+@dimen/actionbar_item_width
+                    </item>
+                    <item name="android:layout_height">
+@dimen/actionbar_height
+                    </item>
+                    <item name="android:padding">
+10dp
+                    </item>
+                    <item name="android:layout_marginLeft">
+1px
+                    </item>
+                </style>
+
+                <style
+                    name="GPlusProgressBar"
+                    parent="ProgressBar.Horizontal" >
+                    <item name="spb_stroke_separator_length">
+12dp
+                    </item>
+                    <item name="spb_sections_count">
+4
+                    </item>
+                    <item name="spb_speed">
+0.7
+                    </item>
+                    <item name="spb_interpolator">
+spb_interpolator_linear
+                    </item>
+                    <item name="spb_colors">
+@array/gplus_colors
+                    </item>
+                </style>
+
+                <style name="TextTheme.tipstheme" >
+                    <item name="android:textSize">
+18sp
+                    </item>
+                    <item name="android:textColor">
+#000000
+                    </item>
+                    <item name="android:textStyle">
+normal
+                    </item>
+                </style>
+
+                <style name="TextTheme.tipstheme_buttontext" >
+                    <item name="android:textSize">
+16sp
+                    </item>
+                    <item name="android:textColor">
+#ffffff
+                    </item>
+                    <item name="android:textStyle">
+normal
+                    </item>
+                </style>
+
+                <style name="navitext" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+56dip
+                    </item>
+                    <item name="android:paddingLeft">
+20dip
+                    </item>
+                    <item name="android:gravity">
+center_vertical
+                    </item>
+                    <item name="android:textSize">
+16sp
+                    </item>
+                </style>
+
+                <style name="ActionBarHomeLogo" >
+                    <item name="android:layout_marginRight">
+1px
+                    </item>
+                    <item name="android:layout_marginLeft">
+0px
+                    </item>
+                </style>
+
+                <style
+                    name="ActionBarProgressBar"
+                    parent="@android:style/Widget.ProgressBar.Large" >
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+
+                <style name="ActionBarHomeItem" >
+                    <item name="android:layout_width">
+@dimen/actionbar_item_width
+                    </item>
+                    <item name="android:layout_height">
+@dimen/actionbar_height
+                    </item>
+                    <item name="android:layout_marginRight">
+1px
+                    </item>
+                    <item name="android:layout_marginLeft">
+1px
+                    </item>
+                    <item name="android:paddingLeft">
+5dp
+                    </item>
+                    <item name="android:paddingRight">
+0dp
+                    </item>
+                    <item name="android:paddingBottom">
+5dp
+                    </item>
+                    <item name="android:paddingTop">
+5dp
+                    </item>
+                </style>
+
+                <style name="ActionBar" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+@dimen/actionbar_height
+                    </item>
+                    <item name="android:orientation">
+horizontal
+                    </item>
+                    <item name="android:background">
+@drawable/actionbar_background
+                    </item>
+                </style>
+
+                <style name="TextTheme.tipstheme_second" >
+                    <item name="android:textSize">
+16sp
+                    </item>
+                    <item name="android:textColor">
+#888888
+                    </item>
+                    <item name="android:textStyle">
+normal
+                    </item>
+                </style>
+
+                <style name="Spinner" >
+                    <item name="android:indeterminate">
+true
+                    </item>
+                    <item name="android:indeterminateDrawable">
+@drawable/spinner
+                    </item>
+                    <item name="android:indeterminateDuration">
+1000
+                    </item>
+                    <item name="android:indeterminateOnly">
+true
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+
+                </style>
+
+                <style
+                    name="ProgressBar.Horizontal"
+                    parent="@android:style/Widget.ProgressBar.Horizontal" >
+                </style>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\umeng_common_strings.xml"
+                qualifiers="" >
+                <string name="umeng_common_download_notification_prefix" >Downloading: 
+                </string>
+                <string name="umeng_common_start_patch_notification" >Patch start.
+                </string>
+                <string name="umeng_common_icon" >icon
+                </string>
+                <string name="umeng_common_download_failed" >Download Failed! 
+                </string>
+                <string name="umeng_common_action_cancel" >Cancel
+                </string>
+                <string name="umeng_common_info_interrupt" >dowload interrupted.
+                </string>
+                <string name="umeng_common_download_finish" >Download finished,click to install it.
+                </string>
+                <string name="umeng_common_action_pause" >Pause
+                </string>
+                <string name="umeng_common_action_info_exist" >The app is already in downloading list.
+                </string>
+                <string name="umeng_common_silent_download_finish" >New version is ready,click to install it.
+                </string>
+                <string name="umeng_common_network_break_alert" >Please make sure you are connected to internet, download failed
+                </string>
+                <string name="umeng_common_pause_notification_prefix" >Pause: 
+                </string>
+                <string name="umeng_common_action_continue" >Continue
+                </string>
+                <string name="umeng_common_start_download_notification" >Download start.
+                </string>
+                <string name="umeng_common_patch_finish" >Patch finished,click to install it.
+                </string>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\umeng_fb_strings.xml"
+                qualifiers="" >
+                <string name="umeng_fb_contact_title" >Contact
+                </string>
+                <string name="umeng_fb_reply_content_default" >Your precious feedback are appriciated.
+                </string>
+                <string name="umeng_fb_contact_info" >Contact Info
+                </string>
+                <string name="umeng_fb_contact_info_hint" >Email, msn, gtalk, or whatever we can find you.
+                </string>
+
+                <color name="umeng_fb_color_btn_pressed" >#1495F7
+                </color>
+
+                <string name="umeng_fb_back" >Back
+                </string>
+                <string name="umeng_fb_reply_date_default" >2013-3-12 13:24:00
+                </string>
+                <string name="umeng_fb_powered_by" >Powered by
+                </string>
+                <string name="umeng_fb_contact_update_at" >Updated at 
+                </string>
+                <string name="umeng_fb_send" >Send
+                </string>
+                <string name="umeng_fb_notification_ticker_text" >Got new reply
+                </string>
+                <string name="umeng_fb_title" >Feedback
+                </string>
+                <string name="umeng_fb_reply_content_hint" >I want to tell
+                </string>
+                <string name="umeng_fb_notification_content_formatter_single_msg" >New reply: %s
+                </string>
+                <string name="umeng_fb_notification_content_formatter_multiple_msg" >You received %d new replies from the app developer.
+                </string>
+
+                <color name="umeng_fb_color_btn_normal" >#333333
+                </color>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values\umeng_update_string.xml"
+                qualifiers="" >
+                <string name="UMNewVersion" >Latest version: 
+                </string>
+                <string name="UMToast_IsUpdating" >Updating....
+                </string>
+                <string name="UMDialog_InstallAPK" >The lastest version has been downloaded, install now ?
+                </string>
+                <string name="UMUpdateSize" >Update size: 
+                </string>
+                <string name="UMAppUpdate" >App updating
+                </string>
+                <string name="UMNotNow" >Not now
+                </string>
+                <string name="UMTargetSize" >Target size: 
+                </string>
+                <string name="UMGprsCondition" >(Warning: Not WIFI Condition)
+                </string>
+                <string name="UMBreak_Network" >Please make sure you are connected to internet,update failed
+                </string>
+                <string name="UMIgnore" >Ingore this
+                </string>
+                <string name="UMUpdateNow" >Update now
+                </string>
+                <string name="UMUpdateTitle" >New version found
+                </string>
+                <string name="UMUpdateContent" >Update Content
+                </string>
+                <string name="UMUpdateCheck" >2.4.2.20140520
+                </string>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values-ja\umeng_fb_strings.xml"
+                qualifiers="ja" >
+                <string name="umeng_fb_contact_info" >連絡
+                </string>
+                <string name="umeng_fb_reply_content_default" ></string>
+                <string name="umeng_fb_notification_ticker_text" >新しい回答を持っている
+                </string>
+                <string name="umeng_fb_reply_content_hint" ></string>
+                <string name="umeng_fb_send" >送信
+                </string>
+                <string name="umeng_fb_contact_update_at" >更新
+                </string>
+                <string name="umeng_fb_back" >戻る
+                </string>
+                <string name="umeng_fb_contact_info_hint" >メール、電話、その他の連絡先
+                </string>
+                <string name="umeng_fb_reply_date_default" ></string>
+                <string name="umeng_fb_title" >お客様のご返答
+                </string>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values-zh\pull_refresh_strings.xml"
+                qualifiers="zh" >
+                <string name="pull_to_refresh_release_label" >放开以刷新…
+                </string>
+                <string name="pull_to_refresh_pull_label" >下拉刷新…
+                </string>
+                <string name="pull_to_refresh_refreshing_label" >正在载入…
+                </string>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values-zh\umeng_common_strings.xml"
+                qualifiers="zh" >
+                <string name="umeng_common_silent_download_finish" >新版本已经准备好，请点击安装
+                </string>
+                <string name="umeng_common_action_cancel" >取消
+                </string>
+                <string name="umeng_common_info_interrupt" >下载出错啦，请检查网络后继续。
+                </string>
+                <string name="umeng_common_download_notification_prefix" >正在下载: 
+                </string>
+                <string name="umeng_common_patch_finish" >更新完成，请点击安装
+                </string>
+                <string name="umeng_common_download_failed" >下载失败
+                </string>
+                <string name="umeng_common_action_info_exist" >正在下载中.
+                </string>
+                <string name="umeng_common_network_break_alert" >请连接网络后再尝试！
+                </string>
+                <string name="umeng_common_start_patch_notification" >正在更新安装包
+                </string>
+                <string name="umeng_common_download_finish" >下载完成，请点击安装
+                </string>
+                <string name="umeng_common_action_pause" >暂停
+                </string>
+                <string name="umeng_common_pause_notification_prefix" >暂停: 
+                </string>
+                <string name="umeng_common_start_download_notification" >正在下载应用
+                </string>
+                <string name="umeng_common_action_continue" >继续
+                </string>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values-zh\umeng_fb_strings.xml"
+                qualifiers="zh" >
+                <string name="umeng_fb_send" >发送
+                </string>
+                <string name="umeng_fb_reply_date_default" >2013年3月12日 13:24:00
+                </string>
+                <string name="umeng_fb_reply_content_hint" >我想说
+                </string>
+                <string name="umeng_fb_notification_ticker_text" >有新的回复
+                </string>
+                <string name="umeng_fb_back" >返回
+                </string>
+                <string name="umeng_fb_reply_content_default" >你好， 我是产品经理，欢迎您反馈使用产品的感受和建议
+                </string>
+                <string name="umeng_fb_contact_info" >联系方式
+                </string>
+                <string name="umeng_fb_notification_content_formatter_single_msg" >新回复: %s
+                </string>
+                <string name="umeng_fb_contact_info_hint" >QQ, 电话等我们能联系您的联系方式
+                </string>
+                <string name="umeng_fb_contact_title" >填写联系信息
+                </string>
+                <string name="umeng_fb_contact_update_at" >更新于 
+                </string>
+                <string name="umeng_fb_title" >用户反馈
+                </string>
+                <string name="umeng_fb_notification_content_formatter_multiple_msg" >收到来自开发者的 %d 条回复。
+                </string>
+            </file>
+            <file
+                path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\res\values-zh\umeng_update_string.xml"
+                qualifiers="zh" >
+                <string name="UMUpdateNow" >立即更新
+                </string>
+                <string name="UMIgnore" >忽略该版
+                </string>
+                <string name="UMNotNow" >以后再说
+                </string>
+                <string name="UMBreak_Network" >未联网
+                </string>
+                <string name="UMUpdateSize" >仅需要下载:
+                </string>
+                <string name="UMToast_IsUpdating" >正在更新中....
+                </string>
+                <string name="UMNewVersion" >最新版本: 
+                </string>
+                <string name="UMGprsCondition" >（提示：非WIFI环境）
+                </string>
+                <string name="UMTargetSize" >新版本大小:
+                </string>
+                <string name="UMAppUpdate" >应用更新
+                </string>
+                <string name="UMDialog_InstallAPK" >最新版本已下载，是否安装？
+                </string>
+                <string name="UMUpdateTitle" >发现新版本
+                </string>
+                <string name="UMUpdateContent" >更新内容
+                </string>
+            </file>
+        </source>
+        <source path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\build\generated\res\rs\debug" />
+        <source path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\hujiaxuan\Desktop\Wonderful2-master\build-types\debug\res" />
+    </dataSet>
+
+</merger>
